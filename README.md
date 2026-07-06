@@ -28,22 +28,16 @@ No installation steps are necessary.
 2. Double-click the `index.html` file to run it locally in your default web browser.
 
 ## Project Structure
-```text```
+```text
 aerophone-landing-page/
 ├── .github/
-
 │     └── workflows/
-
 │         └── ci.yml          # Automation markup validator
-
 ├── .gitignore                # Operating system and workspace exclusion rules
-
 ├── README.md                 # Core project documentation
-
 ├── index.html                # Main site assembly file
-
 └── style.css                 # Visual formatting layout rules
-
+```
 ## Roadmap
 
 [ ] Add explicit CSS Grid rules to fallback nicely on narrow viewport structures.

@@ -30,9 +30,6 @@ No installation steps are necessary.
 ## Project Structure
 ```text
 aerophone-landing-page/
-├── .github/
-│     └── workflows/
-│         └── ci.yml          # Automation markup validator
 ├── .gitignore                # Operating system and workspace exclusion rules
 ├── README.md                 # Core project documentation
 ├── index.html                # Main site assembly file
